@@ -3,11 +3,13 @@ project:
     name: Food-Bank
     package:
         name: Food-Bank
-        namespace: gundam6837
+        namespace: packaging
         api_version: '63.0'
     git:
         default_branch: 'main'
     source_format: sfdx
+    version: 1.0.0
+    version_increment: patch  
 
 tasks:
     robot:
