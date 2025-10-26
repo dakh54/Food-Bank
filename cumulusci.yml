@@ -3,7 +3,7 @@ project:
     name: Food-Bank
     package:
         name: Food-Bank
-        namespace: packaging
+        namespace: gundam6837
         api_version: '63.0'
     git:
         default_branch: 'main'
